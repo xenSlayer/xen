@@ -1270,6 +1270,27 @@ a {
 .cid-sumVqdqv5G .item-subtitle {
   text-align: left;
 }
+.cid-suqTQZB2po {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-suqTQZB2po img {
+  width: 120px;
+  margin: auto;
+}
+.cid-suqTQZB2po .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-suqTQZB2po .card {
+    max-width: 12.5%;
+  }
+}
 .cid-sulfAo1jpl {
   padding-top: 30px;
   padding-bottom: 30px;
